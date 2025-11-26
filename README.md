@@ -29,5 +29,3 @@
 - Email: sg6820@uos.ac.kr
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KD4WN&show_icons=true&theme=default&hide_border=true)
