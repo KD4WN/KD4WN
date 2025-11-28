@@ -8,8 +8,6 @@
 - 관심 분야 : AI/ML 응용 및 백엔드 시스템
 
 ## 경험 & 프로젝트
-
-### 🤖 AI & 백엔드 개발
 - **uoScholar-AI**: 대학 공지사항 통합 RAG 챗봇
   - Playwright 웹 스크래핑, Vector DB (Pinecone), NLP 처리
   - GPT-4o Vision을 활용한 멀티모달 요약
