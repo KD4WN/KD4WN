@@ -15,7 +15,7 @@
 - **sogonggogo_ai**: 음성인식 AI 주문 모듈
 
 - **Irumoa-AI**: 데이터 크롤링 및 추천 시스템
-  - 하이브리드 추천 시스템 (콘텐츠 기반 + 협업 필터링)
+  - 하이브리드 추천 시스템 
 
 ### 🛠️ 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
