@@ -4,7 +4,8 @@
 
 ## 🎓 학력
 - **서울시립대학교 컴퓨터과학부**
-- AI/ML 응용 및 백엔드 시스템
+- Trustworthy Networked Systems Laboratory (TNS Lab) 학부 연구생
+- 관심 분야 : AI/ML 응용 및 백엔드 시스템
 
 ## 경험 & 프로젝트
 
