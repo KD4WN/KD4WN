@@ -1,4 +1,14 @@
-> AI 에이전트 개발과 웹 스크래핑에 관심있는 백엔드 개발자
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Donghwan%20Kim&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20AI%20Agent%20%7C%20Web%20Scraping&descAlignY=65&descAlign=50)
+
+<div align="center">
+
+### 👨‍💻 AI 에이전트 개발과 웹 스크래핑에 관심있는 백엔드 개발자
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKD4WN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/KD4WN)
+
+</div>
+
+---
 
 ## 🎓 학력
 - **서울시립대학교 컴퓨터과학부**
