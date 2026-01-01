@@ -4,6 +4,7 @@
 
 ## 🎓 학력
 - **서울시립대학교 컴퓨터과학부**
+- 시대생 6기 Backend Developer
 - Trustworthy Networked Systems Laboratory (TNS Lab) 학부 연구생
 - 관심 분야 : LLM-assisted networking, AI/ML 응용 및 백엔드 시스템
 
