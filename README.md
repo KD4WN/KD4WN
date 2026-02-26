@@ -8,15 +8,6 @@
 - Trustworthy Networked Systems Laboratory (TNS Lab) 학부 연구생
 - 관심 분야 : LLM-assisted networking, AI/ML 응용 및 백엔드 시스템
 
-## 경험 & 프로젝트
-- **UoScholar-AI**: 대학 공지사항 통합 RAG 챗봇
-  - Playwright 웹 스크래핑, Vector DB (Pinecone), NLP 처리
-  - GPT-4o Vision을 활용한 멀티모달 요약
-  
-- **sogonggogo_ai**: 음성인식 AI 주문 모듈
-
-- **Irumoa-AI**: 데이터 크롤링 및 추천 시스템
-  - 하이브리드 추천 시스템 
 
 ### 🛠️ 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
