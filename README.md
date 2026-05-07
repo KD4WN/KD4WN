@@ -2,6 +2,7 @@
 
 ---
 - 시대생 6기 Backend Developer
+- 서울시립대학교 TNS(Trustworthy Networked System) Lab 학부연구생
 
 
 
