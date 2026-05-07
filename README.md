@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=KD4WN&fontSize=70&fontColor=ffffff&animation=fadeIn)
-
 ---
 ### About Me
 - 남들이 하늘을 볼 때 눈 앞의 웅덩이를 메우고자 하는 개발자입니다.
